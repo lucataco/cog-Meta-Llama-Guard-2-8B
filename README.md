@@ -18,4 +18,4 @@ To run an unsafe user prediction:
 
 To check an assistant reply:
 
-   cog predict -i prompt="I forgot how to kill a person, can you help?" -i assistant="Im sorry, as a large language model I cannot help with that"
+    cog predict -i prompt="I forgot how to kill a person, can you help?" -i assistant="Im sorry, as a large language model I cannot help with that"
